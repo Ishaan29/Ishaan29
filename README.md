@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan</h1>
-<h3 align="center">A open source enthusiast and a software developer.</h3>
+<h3 align="center">An open source enthusiast and a software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan29" alt="ishaan29" /> </p>
 
