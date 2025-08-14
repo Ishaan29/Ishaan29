@@ -6,7 +6,4 @@
   
 I develop software, build technical solutions, and contribute to open source projects. I am a passionate learner and love to explore new technologies. I am currently working towards my Master's at the University of Maryland, College Park, MD, USA. Ex Senior Software Engineer (Gainsight, Velotio)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ishaanbajpai" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ishaanbajpai?trk=profile-badge">Eshaan B.</a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaanbajpai)
